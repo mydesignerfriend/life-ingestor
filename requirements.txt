@@ -2,3 +2,4 @@ pdfplumber
 python-docx
 openai
 pinecone-client
+icalendar
